@@ -1,4 +1,4 @@
-package moe.yonjigen.hoshiimiki;
+package moe.yojigen.hoshiimiki;
 
 import android.content.Context;
 import android.content.Intent;
@@ -7,8 +7,8 @@ import androidx.lifecycle.MutableLiveData;
 
 import java.io.File;
 
-import moe.yonjigen.hoshiimiki.modle.VideoPlayerActivityModel;
-import moe.yonjigen.hoshiimiki.view.VideoPlayerActivity;
+import moe.yojigen.hoshiimiki.modle.VideoPlayerActivityModel;
+import moe.yojigen.hoshiimiki.view.VideoPlayerActivity;
 
 public class VideoPlayer {
     private static VideoPlayer mVideoPlayer = new VideoPlayer();

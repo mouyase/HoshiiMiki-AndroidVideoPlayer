@@ -73,7 +73,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedHashMap;
 
-import moe.yonjigen.hoshiimiki.R;
+import moe.yojigen.hoshiimiki.R;
 
 /**
  * Created by liyuejiao on 2018/7/3.

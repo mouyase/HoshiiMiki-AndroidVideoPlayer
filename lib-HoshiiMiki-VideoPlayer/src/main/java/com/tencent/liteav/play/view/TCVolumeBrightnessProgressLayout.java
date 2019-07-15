@@ -7,7 +7,7 @@ import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
 
-import moe.yonjigen.hoshiimiki.R;
+import moe.yojigen.hoshiimiki.R;
 
 
 /**

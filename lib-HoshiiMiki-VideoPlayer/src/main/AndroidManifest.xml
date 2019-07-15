@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="moe.yonjigen.hoshiimiki">
+    package="moe.yojigen.hoshiimiki">
 
     <!--网络权限-->
 
@@ -22,7 +22,7 @@
 
     <application>
         <activity
-            android:name="moe.yonjigen.hoshiimiki.view.VideoPlayerActivity"
+            android:name="moe.yojigen.hoshiimiki.view.VideoPlayerActivity"
             android:screenOrientation="landscape"
             android:theme="@style/AppTheme.NoActionBar.FullScreen"></activity>
     </application>

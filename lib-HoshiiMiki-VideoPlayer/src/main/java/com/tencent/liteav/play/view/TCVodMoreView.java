@@ -19,9 +19,9 @@ import android.widget.Switch;
 import com.tencent.liteav.play.SuperPlayerConst;
 import com.tencent.liteav.play.SuperPlayerGlobalConfig;
 
-import moe.yonjigen.hoshiimiki.R;
+import moe.yojigen.hoshiimiki.R;
 
-import moe.yonjigen.hoshiimiki.R;
+import moe.yojigen.hoshiimiki.R;
 
 /**
  * Created by yuejiaoli on 2018/7/4.

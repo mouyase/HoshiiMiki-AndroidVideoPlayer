@@ -1,4 +1,4 @@
-package moe.yonjigen.hoshiimiki.view;
+package moe.yojigen.hoshiimiki.view;
 
 import android.os.Bundle;
 
@@ -10,8 +10,8 @@ import com.tencent.liteav.play.SuperPlayerModel;
 import com.tencent.liteav.play.SuperPlayerView;
 import com.tencent.rtmp.TXLiveConstants;
 
-import moe.yonjigen.hoshiimiki.R;
-import moe.yonjigen.hoshiimiki.VideoPlayer;
+import moe.yojigen.hoshiimiki.R;
+import moe.yojigen.hoshiimiki.VideoPlayer;
 
 public class VideoPlayerActivity extends AppCompatActivity {
     SuperPlayerView mSuperPlayerView;

@@ -13,7 +13,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.RelativeLayout;
 
-import moe.yonjigen.hoshiimiki.R;
+import moe.yojigen.hoshiimiki.R;
 
 import java.util.List;
 

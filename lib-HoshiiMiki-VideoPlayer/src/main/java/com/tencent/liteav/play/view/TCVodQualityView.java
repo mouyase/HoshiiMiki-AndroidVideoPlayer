@@ -11,7 +11,7 @@ import android.widget.ListView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import moe.yonjigen.hoshiimiki.R;
+import moe.yojigen.hoshiimiki.R;
 
 import java.util.ArrayList;
 

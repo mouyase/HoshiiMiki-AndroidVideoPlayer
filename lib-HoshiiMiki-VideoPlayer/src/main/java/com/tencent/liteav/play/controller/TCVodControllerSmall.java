@@ -12,7 +12,7 @@ import android.widget.TextView;
 import com.tencent.liteav.basic.log.TXCLog;
 import com.tencent.liteav.play.SuperPlayerConst;
 
-import moe.yonjigen.hoshiimiki.R;
+import moe.yojigen.hoshiimiki.R;
 
 /**
  * Created by liyuejiao on 2018/7/3.

@@ -1,4 +1,4 @@
-package moe.yonjigen.hoshiimiki.modle;
+package moe.yojigen.hoshiimiki.modle;
 
 public class VideoPlayerActivityModel {
     private String url;

@@ -6,7 +6,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.ImageView;
 
-import moe.yonjigen.hoshiimiki.R;
+import moe.yojigen.hoshiimiki.R;
 import com.tencent.liteav.play.SuperPlayerConst;
 import com.tencent.liteav.play.SuperPlayerGlobalConfig;
 import com.tencent.rtmp.ui.TXCloudVideoView;

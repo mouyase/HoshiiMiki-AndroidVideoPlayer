@@ -11,7 +11,7 @@ import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import moe.yonjigen.hoshiimiki.R;
+import moe.yojigen.hoshiimiki.R;
 import com.tencent.liteav.play.SuperPlayerConst;
 import com.tencent.liteav.play.SuperPlayerGlobalConfig;
 import com.tencent.liteav.play.bean.TCPlayImageSpriteInfo;
