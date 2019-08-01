@@ -20,7 +20,7 @@ allprojects {
 ### In the build.gradle of your module
 
 ```
-implementation 'moe.yojigen:HoshiiMiki:0.0.1'
+implementation 'tech.yojigen:HoshiiMiki:0.0.1'
 ```
 
 ### And use it
