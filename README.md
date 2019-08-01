@@ -26,12 +26,17 @@ implementation 'moe.yojigen:HoshiiMiki:0.0.1'
 ### And use it
 
 ```
+VideoPlayer.getInstance().playOnActivity(Context context, String videoActivityTitle, String filePath));
+```
+or
+```
 HoshiiMiki.getInstance().playOnActivity(Context context, String videoActivityTitle, String filePath));
 ```
 or
 ```
-VideoPlayer.getInstance().playOnActivity(Context context, String videoActivityTitle, String filePath));
+Miki.getInstance().playOnActivity(Context context, String videoActivityTitle, String filePath));
 ```
+
 
 ## Based
 

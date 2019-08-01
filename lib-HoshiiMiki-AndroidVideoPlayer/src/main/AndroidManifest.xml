@@ -23,8 +23,9 @@
     <application>
         <activity
             android:name="moe.yojigen.hoshiimiki.view.VideoPlayerActivity"
+            android:launchMode="singleTask"
             android:screenOrientation="landscape"
-            android:theme="@style/AppTheme.NoActionBar.FullScreen"></activity>
+            android:theme="@style/AppTheme.NoActionBar.FullScreen" />
     </application>
 
 </manifest>
