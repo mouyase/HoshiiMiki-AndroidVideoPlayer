@@ -1,0 +1,31 @@
+language: android
+dist: bionic
+
+jdk:
+  - openjdk8
+
+android:
+  components:
+    - build-tools-29.0.1
+    - android-29
+  licenses:
+    - 'android-sdk-license-.+'
+    - 'google-gdk-license-.+'
+install:
+  - chmod +x gradlew
+
+script:
+  - ./gradlew uploadArchives
+
+after_success:
+  - cd ./aar
+  - git init
+  - git config --global user.name "某亚瑟"
+  - git config --global user.email "mouyase@qq.com"
+  - git add .
+  - git commit -m "Update"
+  - git push --force "https://mouyase:${GIT_TOKEN}@github.com/mouyase/HoshiiMiki-AndroidVideoPlayer.git" master:aar
+
+branches:
+  only:
+    - master
